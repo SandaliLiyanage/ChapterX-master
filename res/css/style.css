@@ -66,7 +66,7 @@
 /* Home BG Parallax */
 
 #home-bg-parallax > .bg-parallax {
-  background: url("../images/bg-parallax.jpg");
+  background: url("../images/bg-parallax.webp");
 }
 
 
@@ -200,7 +200,7 @@
 */
 
 #venue {
-  background-image: url("../images/bg-venue.jpg");
+  background-image: url("../images/bg-venue.jpeg");
   background-position: center bottom !important;
 }
 
